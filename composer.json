@@ -1,6 +1,6 @@
 {
-    "name": "iexbase/tron-api",
-    "description": "A PHP API for interacting with Tron (Trx)",
+    "name": "mingcash/tron-api",
+    "description": "A PHP API for interacting with Tron (Trx) private",
     "license": "MIT",
     "type":   "library",
     "homepage": "https://github.com/iexbase/tron-api",
